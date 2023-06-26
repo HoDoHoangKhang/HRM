@@ -1,0 +1,9 @@
+Mã phòng ban#Mã trưởng phòng#Tên trưởng phòng#Số lượng nhân viên#Tên phòng ban#Lương toàn bộ phòng ban
+IT#C0004#Nguyen Van A#3#Ki Thuat#0.0
+NS#Chua co#Chua co#2#Nhan Su#0.0
+MK#Chua co#Chua co#1#Marketing#0.0
+CS#Chua co#Chua co#1#Cskh#0.0
+KT#Chua co#Chua co#0#Ke Toan#0.0
+HC#Chua co#Chua co#1#Hanh Chinh#0.0
+TC#Chua co#Chua co#3#Tai Chinh#0.0
+1#Chua co#Chua co#0#Kkk#0.0

@@ -1,0 +1,6 @@
+Mã dự án#Tên dự án#kinh phí thực hiện#ngày bắt đầu dự án#Thời hạn dự án#Ngày kết thúc dự án
+VG#Vin Group#900#2/3/2020#36#2/3/2023
+QLPB#Quan Ly Phong Ban#100#9/9/2021#39#9/12/2024
+KK#Kim Kinh#12#2/3/2021#5#2/8/2021
+QLNS#Quan Ly Nhan Su#100#2/3/2021#24#2/3/2023
+HKT#Nhay#1000#2/3/2022#40#2/7/2025

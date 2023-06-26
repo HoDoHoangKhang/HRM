@@ -1,0 +1,20 @@
+Mã nhân viên|Tên nhân viên|Ngày sinh|Giới tính|Số điện thoại|Địa chỉ|Chức vụ|Ngày bắt đầu hợp đồng|Ngày kết thúc hợp đồng|Lương cơ bản|Hệ số lương|Email|Phụ Cấp|Mã phòng ban|Số dự án đã thực hiện|mã dự án đang làm|Thời hạn hợp đồng|Thời gian còn lại hợp đồng
+C0001#Nguyen Truong Hoai Nam#13/3/2003#Nam#0382358823#Phu Nhuan, Ho Chi Minh#Chuyen Vien#13/3/2021#13/3/2025#50000000#1.5#hoainam2003@gmail.com#___#IT#0#VG#48#27
+C0002#Mong Tang Khuong#9/7/2003#Nam#0568372592#Tan Phu, Ho Chi Minh#Chuyen Vien#13/3/2021#13/7/2024#30000000#1.4#tangkhuong2003@gmail.com#___#TC#0#QLPB#40#19
+C0004#Chung Vu Khoi Nguyen#13/3/2003#Nu#0993547128#4, Ho Chi Minh#Chuyen Vien#12/12/2020#12/18/2023#33000000#1.4#khoinguyen@gmail.com#___#NS#0#VG#42#12
+C0005#Tran Thi My Duyen#6/9/2003#Nu#0146278525#Tan Phu, Ho Chi Minh#Thu Ki#13/3/2021#13/3/2024#25000000#1.4#myduyen2003@gmail.com#___#HC#0#QLNS#36#15
+C0006#Dao Quy Cuong#27/8/2003#Nam#0727871652#Thu Duc, Ho Chi Minh#Nhan vien#13/11/2020#13/12/2022#20300000#1.3#quycuong2003@gmail.com#___#IT#0#VG#25#0
+C0007#Pham Thi Thuy Dung#11/11/2003#Nu#0187375239#Go Vap, Ho Chi Minh#Tro ly#29/9/2020#29/15/2022#18000000#1.3#thuydung2003@gmail.com#___#NS#0#QLNS#30#0
+C0030#Test Ba Muoi#1/1/1#Nam#0123456789#1, Test#Test#1/1/1#1/2/1#4500000#1.5#test30@gmail.com#___#CS#0#KK#1#-24262
+C0031#Test Ba Muoi Mot#1/1/1#Nu#0123456789#1, Test#Test#1/1/1#1/2/1#12000000#1.2#test31@gmail.com#___#TC#0#HKT#1#-24262
+C0032#Test Ba Muoi Hai#1/1/1#Nam#0123456789#1, Test#Test#1/1/1#1/2/1#16500000#1.34#test32@gmail.com#___#MK#0#KK#1#-24262
+C0033#Test Ba Muoi Ba#1/1/1#Nu#0312546789#1, Test#Tro ly#1/1/1#1/2/1#8000000#1.1#test33@gmail.com#___#TC#0#HKT#1#-24262
+P0001#Doan Tran Thanh Hong#19/11/1990#Nu#0849881134#Binh Tan, Ho Chi Minh#Lao Cong#2/6/2020#2/14/2021#6500000#1.2#___#___#___#___#___#20#-12
+P0002#Nguyen My Le#4/3/1982#Nu#0831738192#2, Ho Chi Minh#Lao cong#12/12/2020#12/13/2022#6500000#1.4#___#___#___#___#___#25#0
+P0003#Le Vu Luan#7/11/1991#Nam#0757128821#1, Ho Chi Minh#Bao ve#12/12/2020#12/18/2022#7500000#1.3#___#___#___#___#___#30#0
+P0030#Test Ba Muoi#1/1/1#Nu#0987654321#1, Test#Lao cong#1/1/1#1/2/1#6800000#1.4#___#___#___#___#___#1#-24262
+P0031#Test Ba Muoi Mot#1/1/1#Nam#0541239876#1, Test#Bao ve#1/1/1#1/2/1#6100000#1.2#___#___#___#___#___#1#-24262
+P0033#Test Ba Muoi Ba#1/1/1#Nam#0918324576#1, Test#Bao ve#1/1/1#1/2/1#7700000#1.3#___#___#___#___#___#1#-24262
+T0001#Ma Ngoc Quynh Nga#23/9/2003#Nu#0621140525#Binh Tan, Ho Chi Minh#Thu ki#23/9/2022#23/12/2022#___#___#quynhnga2003@gmail.com#3000000#CS#___#___#3#0
+T0002#Le Quang Phat#19/2/2003#Nam#0667819521#1, Ho Chi Minh#Nhan vien#23/9/2022#23/12/2022#___#___#quangphat2003@gmail.com#3100000#IT#___#___#3#0
+T0003#To Thi Thao Ngan#9/4/2002#Nu#0777184551#4, Ho Chi Minh#Ke toan#23/9/2022#23/12/2022#___#___#thaongan2002@gmail.com#2800000#KT#___#___#3#0
